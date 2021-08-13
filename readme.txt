@@ -1,5 +1,3 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-add merge 
-fix bug
-修改
+这是我用来练习写代码的库
